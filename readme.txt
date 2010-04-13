@@ -38,9 +38,9 @@ The URL to your map can be copied from where it says "Paste link in email or IM"
 
 The following map attributes are all optional:
 
-`class` - name of `&#91;iframe&#93; CSS class
-`width` - width of `&#91;iframe&#93; (defaults to 400)
-`height` - height of `&#91;iframe&#93; (defaults to 400)
+`class` - name of &#91;iframe&#93; CSS class
+`width` - width of &#91;iframe&#93; (defaults to 400)
+`height` - height of &#91;iframe&#93; (defaults to 400)
 
 == Screenshots ==
 
